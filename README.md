@@ -19,4 +19,4 @@
 
 ## Bài nộp
 
-File: `Day25_AI-Team-Lab_TeamXX.pdf` - [Link](Day25_AI-Team-Lab_TeamXX.pdf)
+File: `Day25_AI-Team-Lab_TeamThuongHang.pdf` - [Link](Day25_AI-Team-Lab_TeamThuongHang.pdf)
