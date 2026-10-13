@@ -16,3 +16,7 @@
 - **Mục tiêu hiện tại:** Triển khai thử nghiệm thành công MVP ứng dụng AI vào quy trình vận hành thực tế, đạt chỉ số tối ưu hoá thời gian tối thiểu 30% và hoàn thiện năng lực cốt lõi cho đội ngũ.
 - **Người tổng hợp:** Trần Đức Quân
 - **Format làm bài:** Google Docs
+
+## Bài nộp
+
+File: `Day25_AI-Team-Lab_TeamXX.pdf` - [Link](Day25_AI-Team-Lab_TeamXX.pdf)
